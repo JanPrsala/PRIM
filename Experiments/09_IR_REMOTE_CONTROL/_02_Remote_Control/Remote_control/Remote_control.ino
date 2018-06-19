@@ -1,71 +1,23 @@
-#include <IRremote.h>
-#include <Servo.h>
+#include <Servo.h>     //zahrnutí knihovny pro ovládání servo motoru
+Servo myservo;         //každý motor má svou instanci třídy Servo
+int pos = 0;           //proměnná obsahující pozici motoru (úhel natočení)
 
-int RECV_PIN = 8; // IR Dioda na pinu 8
-IRrecv irrecv(RECV_PIN);
-decode_results results;
-String Vstup;
-
-Servo myservo;//Vytvoření objektu pro řízení krokového motoru
-int poloha=90;
-
-const int motorIn1 = 10;  //Piny pro DC motor na 10 a 11
-const int motorIn2 = 11;  
-int rychlost = 255;   //Rychlost DC motoru
-
-void setup() {
-   Serial.begin(9600);
-   irrecv.enableIRIn(); 
-   pinMode(motorIn1,OUTPUT);     //Inicializace DC motoru
-   pinMode(motorIn2,OUTPUT);     
-   myservo.attach(3); //Servo motor je na pinu 3
-   myservo.write(poloha); //Výchozí poloha
-}
-
-void loop() {
-  if (irrecv.decode(&results)) {
-    Vstup =  String(results.value, HEX); 
-    Serial.println(Vstup);
-    if (Vstup=="ff18e7") {
-      Serial.println("VPRED");
-      
-      motor(rychlost,0); 
-      delay(500);
-    }
-    else if (Vstup=="ff4ab5") {
-      Serial.println("VZAD");
-      motor(0,rychlost);
-      delay(500);
-    }
-    else if (Vstup=="ff10ef") {
-      Serial.println("VLEVO");
-      if (poloha>10){
-          poloha=poloha-10;
-          myservo.write(poloha);
-        }
-      delay(500);
-    }
-    else if (Vstup=="ff5aa5") {
-      Serial.println("VPRAVO");
-      if (poloha<170){
-          poloha=poloha+10;
-          myservo.write(poloha);
-        }
-      delay(500);
-    }
-    else{
-      Serial.println("STOP");
-      motor(0,0);
-      delay(500);
-    }
-    irrecv.resume(); //Načti další hodnotu
-  }
-}
-
-void motor(int A, int B)
+void setup()
 {
-  Serial.println(A);
-  Serial.println(B);  
-  analogWrite(motorIn1,A); 
-  analogWrite(motorIn2,B); 
+  myservo.attach(9);   //tento motor je připojen na pin 9
+}
+
+void loop()
+{
+  for(pos = 0; pos <= 180; pos += 1) //je od úhlu 0 do úhlu 180
+  {
+    myservo.write(pos);  //natočení motoru na aktuální úhel
+    delay(15);           //chvilka čekání než se motor natočí
+  } 
+  for(pos = 180; pos >= 0; pos -= 1) //je od úhlu 180 zpět do úhlu 0
+  {
+    myservo.write(pos);  //natočení motoru na aktuální úhel
+    delay(15);           //chvilka čekání než se motor natočí
+
+  }
 }
