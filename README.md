@@ -10,4 +10,4 @@ Pro práci s Arduino pomocí této učebnice se nevyžadují žádné předchoz�
 
 # OBSAH
 
-1. [link https://github.com/Nowis75/PRIM/tree/master/Experiments/_Uvod]Úvod[/link] 
+1. [Úvod](https://github.com/Nowis75/PRIM/tree/master/Experiments/_Uvod) 
