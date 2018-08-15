@@ -55,9 +55,42 @@ se jedná o volbu rezistorů a jejich zapojení.
   * Zavedení vlastní funkce v programovém kódu.
   * Použití příkazu cyklu for.
 6. [Programujeme ovládání DC motorů](https://github.com/Nowis75/PRIM/tree/master/Experiments/05_MOTOR_DC) 
+  * Pochopení principu stejnosměrného motoru.
+  * Seznámení s principy tranzistoru.
+  * Zapojení tranzistoru pro regulaci otáček motoru.
+  * Zapojení externího napájení motoru.
+  * Využití potenciometru pro regulaci motoru.
+  * Projekt větráku.
 7. [Měříme vyzikální veličiny](https://github.com/Nowis75/PRIM/tree/master/Experiments/06_THERMO_DISPLAY) 
+  * Získání dovedností při zapojování senzoru teploty.
+  * Naučení se pracovat se sériovým monitorem.
+  * Naučit se zapojit LCD display a zobrazovat hodnoty.
+  * Připojování externích knihoven pro snazší programování.
+  * Naučit se zobrazovat hodnoty na LCD displeji.
+  * Projekt skleníku.
 8. [Programujeme Akcelerometr](https://github.com/Nowis75/PRIM/tree/master/Experiments/07_ACCELEROMETER) 
+  * Tato kapitola není prozatím dokončena
 9. [Programujeme ovládání joystickem](https://github.com/Nowis75/PRIM/tree/master/Experiments/08_JOYSTICK) 
+  * Pochopit princip joysticku a jeho využití jako vstupní zařízení pro konstrukce na
+bázi Arduina.
+  * Sestrojit jednoduchou robotickou ruku za pomoci krokového motorku, servo motorku a
+dílů vytištěných na 3D tiskárně.
+  * Tuto ruku naprogramovat a nastavit tak, aby uměla vymáchat pytlík čaje v připraveném
+hrníčku s vodou o požadované teplotě.
 10. [Dálkové ovládání](https://github.com/Nowis75/PRIM/tree/master/Experiments/09_IR_REMOTE_CONTROL) 
+  * Princip IR ovládání.
+  * Podrobný popis zapojení obvodu s IR diodu.
+  * Zdrojový kód programu pro IR ovládání
+  * Podrobný popis zapojení obvodu pro IR ovládání DC a servo motoru
+  * Zdrojový kód tohot zapojení
+  * Řešení možných potíží
+  * Další úkoly pro samostatnou práci
 11. [Semafor](https://github.com/Nowis75/PRIM/tree/master/Experiments/10_SEMAPHORE) 
+  * Popis přerušení.
+  * Tlačítko a jeho zapojení
+  * Zapojení obvodu pro jednoduchý semafor
+  * Zdrojový kód pro jednoduchý semafor
+  * Řešení možných potíží
+  * Složitější úlohy pro semafor, včetně zapojení a zdrojového kódy
+  * Další úlohy pro samostatnou práci
 12. [Wiring - referenční příručka](https://github.com/Nowis75/PRIM/tree/master/Experiments/Wiring%20-%20refere%C4%8Dn%C3%AD%20p%C5%99%C3%ADru%C4%8Dka)
