@@ -18,9 +18,42 @@ Pro práci s Arduino pomocí této učebnice se nevyžadují žádné předchoz�
   * Řešení problémů.
   * Nutné základy pro první program - kontaktní pole, ohmův zákon, tlačítka, LED.
 2. [První program](https://github.com/Nowis75/PRIM/tree/master/Experiments/01_PRVNI_PROGRAM) 
+  * Digitální vstup a výstup s popisem funkcí pro jejich ovládání.
+  * Podrobný popis zapojení obvodu s LED diodu.
+  * Základní seznámení s jazykem Wiring.
+  * Popis rozhraní Arduino IDE pro nahrání kódu do desky.
+  * Řešené problémy při zapojení LED diody.
+  * Seznámení s programem Arduino IDE pro nahrávání kódu do desky.
+  * Princip a zapojení piezzo bzučáku s podrobným vysvětlením.
+  * Programový kód pro ovládání obvodu s bzučákem.
+  * Technická část pro závěrečný projekt – Mluvící robot.
+  * Vysvětlení řešení samostatných úkolů.
 3. [LED Animace](https://github.com/Nowis75/PRIM/tree/master/Experiments/02_LED_ANIMATION) 
+  * Deklarace a používání vlastních funkcí.
+  * Definice polí v Arduinu.
+  * Použití příkazu cyklu for.
+  * Programové kódy pro vysvětlení používání polí a cyklu.
+  * Řešené problémy při zapojení sestavy LED diod.
+  * Technická část pro závěrečný projekt – stojan na diody.
+  * Vysvětlení řešení samostatných úkolů.
 4. [Programujeme ovládání servo motorů](https://github.com/Nowis75/PRIM/tree/master/Experiments/03_SERVO) 
+  * Princip servomotorů.
+  * Vysvětlení podmínkového příkazu if..else.
+  * Příklad zapojení servomotoru.
+  * Princip a zapojení potenciometru v Arduino pro ovládání servomotoru.
+  * Programové kódy pro vysvětlení používání podmínkového příkazu if..else..
+  * Řešené problémy při zapojení servomotoru.
+  * Technická část pro závěrečný projekt – slunečnice.
+  * Vysvětlení řešení samostatných úkolů.
 5. [Programujeme RGB diody](https://github.com/Nowis75/PRIM/tree/master/Experiments/04_RGB_LED) 
+  * Seznámení se s RGB diodou a její funkčností.
+  * Princip skládání barev a PWM.
+  * Správné zapojení RGB diody s využitím zkušeností z předchozích příkladů. Zejména
+se jedná o volbu rezistorů a jejich zapojení.
+  * Zavedení pojmů a znalostí týkající se analogových výstupů a mapování hodnot.
+  * Využití již zavedeného podmínkového příkazu if.
+  * Zavedení vlastní funkce v programovém kódu.
+  * Použití příkazu cyklu for.
 6. [Programujeme ovládání DC motorů](https://github.com/Nowis75/PRIM/tree/master/Experiments/05_MOTOR_DC) 
 7. [Měříme vyzikální veličiny](https://github.com/Nowis75/PRIM/tree/master/Experiments/06_THERMO_DISPLAY) 
 8. [Programujeme Akcelerometr](https://github.com/Nowis75/PRIM/tree/master/Experiments/07_ACCELEROMETER) 
