@@ -11,12 +11,12 @@ Pro práci s Arduino pomocí této učebnice se nevyžadují žádné předchoz�
 ## OBSAH
 
 1. [Úvod](https://github.com/Nowis75/PRIM/tree/master/Experiments/_Uvod) 
-... Doporučení, jak pracovat s učebnicí.
-... Popis jednotlivých komponent v sadě ARDUINO. 
-... Popis základní desky ARDUINO a programovacího rozhraní.
-... První nastavení programovacího rozhraní.
-... Řešení problémů.
-... Nutné základy pro první program - kontaktní pole, ohmův zákon, tlačítka, LED.
+⋅⋅* Doporučení, jak pracovat s učebnicí.
+⋅⋅* Popis jednotlivých komponent v sadě ARDUINO. 
+⋅⋅* Popis základní desky ARDUINO a programovacího rozhraní.
+⋅⋅* První nastavení programovacího rozhraní.
+⋅⋅* Řešení problémů.
+⋅⋅* Nutné základy pro první program - kontaktní pole, ohmův zákon, tlačítka, LED.
 2. [První program](https://github.com/Nowis75/PRIM/tree/master/Experiments/01_PRVNI_PROGRAM) 
 3. [LED Animace](https://github.com/Nowis75/PRIM/tree/master/Experiments/02_LED_ANIMATION) 
 4. [Programujeme ovládání servo motorů](https://github.com/Nowis75/PRIM/tree/master/Experiments/03_SERVO) 
