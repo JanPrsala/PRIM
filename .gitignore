@@ -1,0 +1,11 @@
+*.docx
+*.pptx
+*.psd
+*.ai
+*.fzz
+Article
+Fonts
+Icon*
+Robotika.*
+_source
+
