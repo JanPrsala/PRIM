@@ -61,7 +61,7 @@ se jedná o volbu rezistorů a jejich zapojení.
   * Zapojení externího napájení motoru.
   * Využití potenciometru pro regulaci motoru.
   * Projekt větráku.
-7. [Měříme vyzikální veličiny](https://github.com/Nowis75/PRIM/tree/master/Experiments/06_THERMO_DISPLAY) 
+7. [Měříme fyzikální veličiny](https://github.com/Nowis75/PRIM/tree/master/Experiments/06_THERMO_DISPLAY) 
   * Získání dovedností při zapojování senzoru teploty.
   * Naučení se pracovat se sériovým monitorem.
   * Naučit se zapojit LCD display a zobrazovat hodnoty.
