@@ -1,4 +1,7 @@
 # PRIM - Robotika
+
+Učebnice robotiky se skládá ze dvou částí. Každá využívá jinou technologii. Jedná se o Arduino a Micro:Bit. Stačí si jen vybrat, kterou technologii pro výuku robotiky využijete. Struktura obou částí a příkladů je prakticky stejná.
+
 [Arduino](#arduino) 
 
 [Micro:Bit](#microbit) 
