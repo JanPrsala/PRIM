@@ -8,4 +8,5 @@ Fonts
 Icon*
 Robotika.*
 _source
-
+.gitignore
+.DS_Store
