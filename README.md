@@ -1,7 +1,7 @@
 # PRIM - Robotika
 [Arduino](#arduino) 
 
-[MicroBit](#microbit) 
+[Micro:Bit](#microbit) 
 
 # Arduino
 
