@@ -10,14 +10,14 @@ Pro práci s Arduino pomocí této učebnice se nevyžadují žádné předchoz�
 
 ## OBSAH
 
-1. [Úvod](https://github.com/Nowis75/PRIM/tree/master/Experiments/_Uvod) 
+1. [Úvod](https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/_Uvod) 
   * Doporučení, jak pracovat s učebnicí.
   * Popis jednotlivých komponent v sadě ARDUINO. 
   * Popis základní desky ARDUINO a programovacího rozhraní.
   * První nastavení programovacího rozhraní.
   * Řešení problémů.
   * Nutné základy pro první program - kontaktní pole, ohmův zákon, tlačítka, LED.
-2. [První program](https://github.com/Nowis75/PRIM/tree/master/Experiments/01_PRVNI_PROGRAM) 
+2. [První program](https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/01_PRVNI_PROGRAM) 
   * Digitální vstup a výstup s popisem funkcí pro jejich ovládání.
   * Podrobný popis zapojení obvodu s LED diodu.
   * Základní seznámení s jazykem Wiring.
@@ -28,7 +28,7 @@ Pro práci s Arduino pomocí této učebnice se nevyžadují žádné předchoz�
   * Programový kód pro ovládání obvodu s bzučákem.
   * Technická část pro závěrečný projekt – Mluvící robot.
   * Vysvětlení řešení samostatných úkolů.
-3. [LED Animace](https://github.com/Nowis75/PRIM/tree/master/Experiments/02_LED_ANIMATION) 
+3. [LED Animace](https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/02_LED_ANIMATION) 
   * Deklarace a používání vlastních funkcí.
   * Definice polí v Arduinu.
   * Použití příkazu cyklu for.
@@ -36,7 +36,7 @@ Pro práci s Arduino pomocí této učebnice se nevyžadují žádné předchoz�
   * Řešené problémy při zapojení sestavy LED diod.
   * Technická část pro závěrečný projekt – stojan na diody.
   * Vysvětlení řešení samostatných úkolů.
-4. [Programujeme ovládání servo motorů](https://github.com/Nowis75/PRIM/tree/master/Experiments/03_SERVO) 
+4. [Programujeme ovládání servo motorů](https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/03_SERVO) 
   * Princip servomotorů.
   * Vysvětlení podmínkového příkazu if..else.
   * Příklad zapojení servomotoru.
@@ -45,7 +45,7 @@ Pro práci s Arduino pomocí této učebnice se nevyžadují žádné předchoz�
   * Řešené problémy při zapojení servomotoru.
   * Technická část pro závěrečný projekt – slunečnice.
   * Vysvětlení řešení samostatných úkolů.
-5. [Programujeme RGB diody](https://github.com/Nowis75/PRIM/tree/master/Experiments/04_RGB_LED) 
+5. [Programujeme RGB diody](https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/04_RGB_LED) 
   * Seznámení se s RGB diodou a její funkčností.
   * Princip skládání barev a PWM.
   * Správné zapojení RGB diody s využitím zkušeností z předchozích příkladů. Zejména
@@ -54,30 +54,30 @@ se jedná o volbu rezistorů a jejich zapojení.
   * Využití již zavedeného podmínkového příkazu if.
   * Zavedení vlastní funkce v programovém kódu.
   * Použití příkazu cyklu for.
-6. [Programujeme ovládání DC motorů](https://github.com/Nowis75/PRIM/tree/master/Experiments/05_MOTOR_DC) 
+6. [Programujeme ovládání DC motorů](https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/05_MOTOR_DC) 
   * Pochopení principu stejnosměrného motoru.
   * Seznámení s principy tranzistoru.
   * Zapojení tranzistoru pro regulaci otáček motoru.
   * Zapojení externího napájení motoru.
   * Využití potenciometru pro regulaci motoru.
   * Projekt větráku.
-7. [Měříme fyzikální veličiny](https://github.com/Nowis75/PRIM/tree/master/Experiments/06_THERMO_DISPLAY) 
+7. [Měříme fyzikální veličiny](https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/06_THERMO_DISPLAY) 
   * Získání dovedností při zapojování senzoru teploty.
   * Naučení se pracovat se sériovým monitorem.
   * Naučit se zapojit LCD display a zobrazovat hodnoty.
   * Připojování externích knihoven pro snazší programování.
   * Naučit se zobrazovat hodnoty na LCD displeji.
   * Projekt skleníku.
-8. [Programujeme Akcelerometr](https://github.com/Nowis75/PRIM/tree/master/Experiments/07_ACCELEROMETER) 
+8. [Programujeme Akcelerometr](https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/07_ACCELEROMETER) 
   * Tato kapitola není prozatím dokončena
-9. [Programujeme ovládání joystickem](https://github.com/Nowis75/PRIM/tree/master/Experiments/08_JOYSTICK) 
+9. [Programujeme ovládání joystickem](https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/08_JOYSTICK) 
   * Pochopit princip joysticku a jeho využití jako vstupní zařízení pro konstrukce na
 bázi Arduina.
   * Sestrojit jednoduchou robotickou ruku za pomoci krokového motorku, servo motorku a
 dílů vytištěných na 3D tiskárně.
   * Tuto ruku naprogramovat a nastavit tak, aby uměla vymáchat pytlík čaje v připraveném
 hrníčku s vodou o požadované teplotě.
-10. [Dálkové ovládání](https://github.com/Nowis75/PRIM/tree/master/Experiments/09_IR_REMOTE_CONTROL) 
+10. [Dálkové ovládání](https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/09_IR_REMOTE_CONTROL) 
   * Princip IR ovládání.
   * Podrobný popis zapojení obvodu s IR diodu.
   * Zdrojový kód programu pro IR ovládání
@@ -85,7 +85,7 @@ hrníčku s vodou o požadované teplotě.
   * Zdrojový kód tohot zapojení
   * Řešení možných potíží
   * Další úkoly pro samostatnou práci
-11. [Semafor](https://github.com/Nowis75/PRIM/tree/master/Experiments/10_SEMAPHORE) 
+11. [Semafor](https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/10_SEMAPHORE) 
   * Popis přerušení.
   * Tlačítko a jeho zapojení
   * Zapojení obvodu pro jednoduchý semafor
@@ -93,4 +93,4 @@ hrníčku s vodou o požadované teplotě.
   * Řešení možných potíží
   * Složitější úlohy pro semafor, včetně zapojení a zdrojového kódy
   * Další úlohy pro samostatnou práci
-12. [Wiring - referenční příručka](https://github.com/Nowis75/PRIM/tree/master/Experiments/Wiring%20-%20refere%C4%8Dn%C3%AD%20p%C5%99%C3%ADru%C4%8Dka)
+12. [Wiring - referenční příručka](https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/Wiring%20-%20refere%C4%8Dn%C3%AD%20p%C5%99%C3%ADru%C4%8Dka)
