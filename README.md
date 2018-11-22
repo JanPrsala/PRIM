@@ -101,7 +101,7 @@ hrníčku s vodou o požadované teplotě.
   * Řešení možných potíží
   * Složitější úlohy pro semafor, včetně zapojení a zdrojového kódy
   * Další úlohy pro samostatnou práci
-12. [Wiring - referenční příručka](https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/Wiring%20-%20refere%C4%8Dn%C3%AD%20p%C5%99%C3%ADru%C4%8Dka)
+12. [Wiring - referenční příručka](https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/Wiring%20-%20referec%CC%8Cni%CC%81%20pr%CC%8Ci%CC%81ruc%CC%8Cka)
 
 # MicroBit
 
