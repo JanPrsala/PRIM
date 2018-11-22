@@ -81,7 +81,7 @@ se jedná o volbu rezistorů a jejich zapojení.
   * Zobrazování jednoduchých symbolů na maticovém displeji.
   * Potenciometry při ovládání maticového displeje.
   * Princip hry Ping-Pong.
-  * Spojení Akcelerometru a a maticového displeje.
+  * Spojení Akcelerometru a maticového displeje.
 9. [Programujeme ovládání joystickem](https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/08_JOYSTICK) 
   * Pochopit princip joysticku a jeho využití jako vstupní zařízení pro konstrukce na
 bázi Arduina.
