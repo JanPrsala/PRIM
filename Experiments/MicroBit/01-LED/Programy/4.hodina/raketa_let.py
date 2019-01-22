@@ -30,11 +30,7 @@ raketa5 = Image("99999:"
                 "00000:"
                 "00000:")
 
-raketa6 = Image("00000:"
-                "00000:"
-                "00000:"
-                "00000:"
-                "00000:")
 
-raketa = [raketa1, raketa2, raketa3, raketa4, raketa5, raketa6]
+raketa = [raketa1, raketa2, raketa3, raketa4, raketa5]
 display.show(raketa, delay=500)
+display.clear()
