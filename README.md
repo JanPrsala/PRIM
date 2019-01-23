@@ -96,7 +96,7 @@ se jedná o volbu rezistorů a jejich zapojení.</li>
 <li>Projekt skleníku.</li>
 </ul>
 <ol start="8">
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/07_ACCELEROMETER">Programujeme Akcelerometr</a></li>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/07_LED_MATRIX_ACCELEROMETER">Programujeme Akcelerometr</a></li>
 </ol>
 <ul>
 <li>Tato kapitola není prozatím dokončena</li>
