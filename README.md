@@ -154,8 +154,8 @@ hrníčku s vodou o požadované teplotě.</li>
 <li>Zobrazení obrázků vestavěných i vlastních
 <li>Animace
 </ul>
-<li><a="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/02-Button"> Použití vestavěných tlačítek</a>
-<li> <a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/03-Sound">Práce se zvukem</a>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/02-Button"> Použití vestavěných tlačítek</a>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/03-Sound">Práce se zvukem</a>
 <ul>
 <li>Přehrání vestavěných melodií
 <li>Tvorba vlastních melodií
