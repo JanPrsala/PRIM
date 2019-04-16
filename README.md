@@ -173,6 +173,13 @@ hrníčku s vodou o požadované teplotě.</li>
 <li>Přímé propojení pomocí kabelu
 <li>Bezdrátové propojení pomocí rádia
 </ul>
+<li>Práce s perifériemi
+<ul>
+<li>Ovládání trojbarevné diody
+<li>Měření teploty pomocí externího čidla
+</ul>
+<li>Závěrečný příklad
+</ul>
 </ol>
 </article>
 
