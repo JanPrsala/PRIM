@@ -148,37 +148,37 @@ hrníčku s vodou o požadované teplotě.</li>
 <p>Je určena pro pokročilejší žáky 7. až 9. tříd základních škol a pro neelektrotechnicky zaměřené školy střední.</p>
 <h2>Obsah</h2>
 <ol>
-<li> Práce s vestavěným LED displejem
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/01-LED"> Práce s vestavěným LED displejem</a>
 <ul>
 <li>Zobrazování textu
 <li>Zobrazení obrázků vestavěných i vlastních
 <li>Animace
 </ul>
-<li> Použití vestavěných tlačítek
-<li> Práce se zvukem
+<li><a="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/02-Button" Použití vestavěných tlačítek</a>
+<li> <a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/03-Sound">Práce se zvukem</a>
 <ul>
 <li>Přehrání vestavěných melodií
 <li>Tvorba vlastních melodií
 <li>Generování řeči
 </ul>
-<li> Orientace micro:bitu v prostoru
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/04-Poloha">Orientace micro:bitu v prostoru</a>
 <ul>
 <li>Použití vestavěného akcelerometru
 <li>Využití gest
 <li>Použití vestavěného kompasu
 <li>Měření magnetického pole
 </ul>
-<li>Propojení micro:bitů v síti
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/05-Sit">Propojení micro:bitů v síti</a>
 <ul>
 <li>Přímé propojení pomocí kabelu
 <li>Bezdrátové propojení pomocí rádia
 </ul>
-<li>Práce s perifériemi
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/06-Periferie">Práce s perifériemi</a>
 <ul>
 <li>Ovládání trojbarevné diody
 <li>Měření teploty pomocí externího čidla
 </ul>
-<li>Závěrečný příklad
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/Zaver/Doc">Závěrečný příklad</a>
 </ul>
 </ol>
 </article>
