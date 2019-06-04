@@ -14,5 +14,5 @@ void loop()  {
   digitalWrite(11, vR);  //red
   digitalWrite(10, vG); //green
   digitalWrite(9, vB);  //blue
-  delay(2000)
+  delay(2000);
 } 
