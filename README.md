@@ -149,6 +149,7 @@ hrníčku s vodou o požadované teplotě.</li>
 <p>Je určena pro pokročilejší žáky 7. až 9. tříd základních škol a pro neelektrotechnicky zaměřené školy střední.</p>
 <h2>Obsah</h2>
 <ol>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/_Uvod"> Úvod</a>
 <li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/01-LED"> Práce s vestavěným LED displejem</a>
 <ul>
 <li>Zobrazování textu
