@@ -11,7 +11,7 @@
 <p>Pro práci s Arduino pomocí této učebnice se nevyžadují žádné předchozí zkušenosti, ani pochopení základů elektroniky. Učebnice je rozdělena do kapitol, které obsahují příklady odstupňované podle náročnosti. Každá kapitola obsahuje materiály pro učitele v podobě podrobných průvodců hodinami, pracovními listy pro žáky a podrobnými průvodci teorií, vztahující se k probíranému tématu. V celé učebnici je kladen důraz na samostatné plnění úkolů, které postupně odhalují možnosti platformy Arduino.</p>
 <h2><a id="user-content-obsah" class="anchor" aria-hidden="true" href="#obsah"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>OBSAH</h2>
 <ol>
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/00_Uvod">Úvod</a> <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/01_PRVNI_PROGRAM">(Lekce ke stažení)</a></li>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/00_Uvod">Úvod</a> <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/00_Uvod">(Lekce ke stažení)</a></li>
 </ol>
 <ul>
 <li>Doporučení, jak pracovat s učebnicí.</li>
@@ -22,7 +22,8 @@
 <li>Nutné základy pro první program - kontaktní pole, ohmův zákon, tlačítka, LED.</li>
 </ul>
 <ol start="2">
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/01_PRVNI_PROGRAM">První program</a></li>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/01_PRVNI_PROGRAM">První program</a> <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/01_PRVNI_PROGRAM">(Lekce ke stažení)</a></li>
+   
 </ol>
 <ul>
 <li>Digitální vstup a výstup s popisem funkcí pro jejich ovládání.</li>
@@ -37,7 +38,7 @@
 <li>Vysvětlení řešení samostatných úkolů.</li>
 </ul>
 <ol start="3">
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/02_LED_ANIMATION">LED Animace</a></li>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/02_LED_ANIMATION">LED Animace</a> <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/02_LED_ANIMATION">(Lekce ke stažení)</a></li>
 </ol>
 <ul>
 <li>Deklarace a používání vlastních funkcí.</li>
@@ -49,7 +50,7 @@
 <li>Vysvětlení řešení samostatných úkolů.</li>
 </ul>
 <ol start="4">
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/03_SERVO">Programujeme ovládání servo motorů</a></li>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/03_SERVO">Programujeme ovládání servo motorů</a> <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/03_SERVO">(Lekce ke stažení)</a></li>
 </ol>
 <ul>
 <li>Princip servomotorů.</li>
@@ -62,7 +63,7 @@
 <li>Vysvětlení řešení samostatných úkolů.</li>
 </ul>
 <ol start="5">
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/04_RGB_LED">Programujeme RGB diody</a></li>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/04_RGB_LED">Programujeme RGB diody</a> <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/04_RGB_LED">(Lekce ke stažení)</a></li>
 </ol>
 <ul>
 <li>Seznámení se s RGB diodou a její funkčností.</li>
@@ -75,7 +76,7 @@ se jedná o volbu rezistorů a jejich zapojení.</li>
 <li>Použití příkazu cyklu for.</li>
 </ul>
 <ol start="6">
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/05_MOTOR_DC">Programujeme ovládání DC motorů</a></li>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/05_MOTOR_DC">Programujeme ovládání DC motorů</a> <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/05_MOTOR_DC">(Lekce ke stažení)</a></li>
 </ol>
 <ul>
 <li>Pochopení principu stejnosměrného motoru.</li>
@@ -86,7 +87,7 @@ se jedná o volbu rezistorů a jejich zapojení.</li>
 <li>Projekt větráku.</li>
 </ul>
 <ol start="7">
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/06_THERMO_DISPLAY">Měříme fyzikální veličiny</a></li>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/06_THERMO_DISPLAY">Měříme fyzikální veličiny</a> <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/06_THERMO_DISPLAY">(Lekce ke stažení)</a></li>
 </ol>
 <ul>
 <li>Získání dovedností při zapojování senzoru teploty.</li>
@@ -97,7 +98,7 @@ se jedná o volbu rezistorů a jejich zapojení.</li>
 <li>Projekt skleníku.</li>
 </ul>
 <ol start="8">
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/07_LED_MATRIX_ACCELEROMETER">Programujeme Akcelerometr</a></li>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/07_LED_MATRIX_ACCELEROMETER">Programujeme Akcelerometr</a> <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/07_LED_MATRIX_ACCELEROMETER">(Lekce ke stažení)</a></li>
 </ol>
 <ul>
 <li>Získání dovedností při zapojovování a ovládání maticového displeje.</li>
@@ -107,7 +108,7 @@ se jedná o volbu rezistorů a jejich zapojení.</li>
    <li>Propojení akcelerometru a maticového displeje.</li>
 </ul>
 <ol start="9">
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/08_JOYSTICK">Programujeme ovládání joystickem</a></li>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/08_JOYSTICK">Programujeme ovládání joystickem</a> <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/08_JOYSTICK">(Lekce ke stažení)</a></li>
 </ol>
 <ul>
 <li>Pochopit princip joysticku a jeho využití jako vstupní zařízení pro konstrukce na
@@ -118,7 +119,7 @@ dílů vytištěných na 3D tiskárně.</li>
 hrníčku s vodou o požadované teplotě.</li>
 </ul>
 <ol start="10">
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/09_IR_REMOTE_CONTROL">Dálkové ovládání</a></li>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/09_IR_REMOTE_CONTROL">Dálkové ovládání</a> <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/08_JOYSTICK">(Lekce ke stažení)</a></li>
 </ol>
 <ul>
 <li>Princip IR ovládání.</li>
@@ -130,7 +131,7 @@ hrníčku s vodou o požadované teplotě.</li>
 <li>Další úkoly pro samostatnou práci</li>
 </ul>
 <ol start="11">
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/10_SEMAPHORE">Semafor</a></li>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/10_SEMAPHORE">Semafor</a>  <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/10_SEMAPHORE">(Lekce ke stažení)</a></li>
 </ol>
 <ul>
 <li>Popis přerušení.</li>
@@ -142,7 +143,7 @@ hrníčku s vodou o požadované teplotě.</li>
 <li>Další úlohy pro samostatnou práci</li>
 </ul>
 <ol start="12">
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/Wiring%20-%20refere%C4%8Dn%C3%AD%20p%C5%99%C3%ADru%C4%8Dka">Wiring - referenční příručka</a></li>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/Wiring%20-%20refere%C4%8Dn%C3%AD%20p%C5%99%C3%ADru%C4%8Dka">Wiring - referenční příručka</a> <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nowis75/PRIM/tree/master/Experiments/Arduino/Wiring%20-%20refere%C4%8Dn%C3%AD%20p%C5%99%C3%ADru%C4%8Dka">(Lekce ke stažení)</a></li>
 </ol>
 <h1><a id="user-content-microbit" class="anchor" aria-hidden="true" href="#microbit"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>MicroBit</h1>
 <p>Učebnice MicroBit je zaměřena na výuku programování MicroPythonu za pomocí vývojové desky Microbit.</p>
