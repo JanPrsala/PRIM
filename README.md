@@ -4,10 +4,6 @@
 <p><a href="#arduino">Arduino - obsah</a></p>
 <p><a href="#microbit">Micro:Bit - obsah</a></p>
 <p><a href="https://github.com/Nowis75/PRIM/archive/master.zip">Učebnice ke stažení (ZIP - 1Gb)</a></p>       
-<h1><a id="user-content-arduino" class="anchor" aria-hidden="true" href="#arduino"></a>Arduino</h1>
-       
-       
-       
  <h2>KRÁTKÉ SEZNÁMENÍ, JAK PRACOVAT S UČEBNÍCÍ</h2><p>
 Učebnice se skládá z jednotlivých kapitol, které obsahují konkrétní probírané téma. Materiály pro každé téma jsou rozděleny do tří základních částí a doplněny o další podpůrné materiály.</p>
 <p>
@@ -38,7 +34,7 @@ Složka obsahuje soubor, ve kterém je uveden postup konstrukce samostatného pr
 <h3>6.	DALŠÍ MATERIÁLY</h3><p>
 Ve složce se nachází zejména soubory schémat zapojení všech obvodů uvedených v učebnici, vztahující se k dané lekci.
 </p>
-
+<h1><a id="user-content-arduino" class="anchor" aria-hidden="true" href="#arduino"></a>Arduino</h1>
        
 <p>Učebnice ARDUINO obsahuje sadu metodických materiálů pro učitele se zaměřením na programování, odráží zrevidovaný rámcový vzdělávací plán z informatiky a naplňuje některé z kompetencí, které jsou v něm zařazené.</p>
 <p>Termín „Arduino“ v sobě obsahuje jak hardware, tak i software. Arduino je prototypovou a otevřenou platformou založenou na snadno použitelném hardwaru a softwaru. Programovatelné desky Arduino zpracovávají vstupy a s použitím programového kódu vytvoří výstup. K desce Arduino lze přidat řadu dalších hardwarových komponent. S využitím open source knihoven dostupných na webu lze Arduino využít pro širokou škálu projektů, od extrémně jednoduchých až po vysoce komplexní. Tím je tato platforma velice flexibilní.</p>
