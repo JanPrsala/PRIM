@@ -4,7 +4,7 @@
 <p><a href="#arduino">Arduino - obsah</a></p>
 <p><a href="#microbit">Micro:Bit - obsah</a></p>
 <p><a href="https://github.com/Nowis75/PRIM/archive/master.zip">Učebnice ke stažení (ZIP - 1Gb)</a></p>       
- <h2>KRÁTKÉ SEZNÁMENÍ, JAK PRACOVAT S UČEBNÍCÍ</h2><p>
+ <h2>KRÁTKÉ SEZNÁMENÍ, JAK PRACOVAT S UČEBNICÍ</h2><p>
 Učebnice se skládá z jednotlivých kapitol, které obsahují konkrétní probírané téma. Materiály pro každé téma jsou rozděleny do tří základních částí a doplněny o další podpůrné materiály.</p>
 <p>
 Každá složka lekce je rozdělena na dílčí podsložky, které mají následující strukturu:<br>
