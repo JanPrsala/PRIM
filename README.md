@@ -193,7 +193,7 @@ hrníčku s vodou o požadované teplotě.</li>
 <p>Je určena pro pokročilejší žáky 7. až 9. tříd základních škol a pro neelektrotechnicky zaměřené školy střední.</p>
 <h2>Obsah</h2>
 <ol>
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/_Uvod"> Úvod</a>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/00-Uvod"> Úvod</a>
 <li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/01-LED"> Práce s vestavěným LED displejem</a>
 <ul>
 <li>Zobrazování textu
@@ -224,7 +224,7 @@ hrníčku s vodou o požadované teplotě.</li>
 <li>Ovládání trojbarevné diody
 <li>Měření teploty pomocí externího čidla
 </ul>
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/Zaver/Doc">Závěrečný příklad</a>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/07-Zaver/Doc">Závěrečný příklad</a>
 </ul>
 </ol>
 </article>
