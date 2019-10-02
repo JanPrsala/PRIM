@@ -224,7 +224,7 @@ hrníčku s vodou o požadované teplotě.</li>
 <li>Ovládání trojbarevné diody
 <li>Měření teploty pomocí externího čidla
 </ul>
-<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/07-Zaver/Doc">Závěrečný příklad</a>
+<li><a href="https://github.com/Nowis75/PRIM/tree/master/Experiments/MicroBit/07-Zaver">Závěrečný příklad</a>
 </ul>
 </ol>
 </article>
