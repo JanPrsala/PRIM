@@ -54,10 +54,6 @@ void loop() {
 
    delay(500);
 
-   digitalWrite(13, HIGH); 	// rozsvícení diody 9
-
-   delay(500);
-
    digitalWrite(5, LOW); 	// zhasnutí diody
 
    delay(500);

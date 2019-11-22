@@ -53,6 +53,8 @@ void changeLED(int pin) {
    delay(50);
 
    digitalWrite(pin, LOW); 	// zhasnutí diod
+   
+   delay(50);
 
 }
 
